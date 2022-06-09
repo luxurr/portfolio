@@ -9,6 +9,7 @@ import { SkillsComponent } from './skills/skills.component';
 
 
 import {MatCardModule} from '@angular/material/card';
+import {MatProgressBarModule} from '@angular/material/progress-bar';
 
 
 @NgModule({
@@ -22,7 +23,8 @@ import {MatCardModule} from '@angular/material/card';
   ],
   imports: [
     CommonModule,
-    MatCardModule
+    MatCardModule,
+    MatProgressBarModule
 
   ]
 })
