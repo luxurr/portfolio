@@ -1,22 +1,25 @@
-#pic{
-  width: 20%;
-  margin-right: 2%;
-}
-
-#title{
-  position: absolute;
-  display:inline-grid;
-}
-
-#text{
-  font-size: 270%;
-  line-height: normal;
-  font-weight: 900;
-}
-
 .view{
-  padding-top: 6%;
-  background-color: black;
-  width: 100%;
-  height: -webkit-fill-available;
+  padding-top: 5%;
+}
+
+.main{
+  margin: 5%;
+  width: 75%;
+  margin-left: 12.5%;
+  background-color:#000000;
+}
+
+#pic{
+  width: 30%;
+}
+
+#texto{
+  background-color: #000000;
+  color: #ffffff;
+  padding: 3%;
+  display: inline;
+  position: absolute;
+  line-height: normal;
+  width: 55%;
+  margin-left: 2%;
 }

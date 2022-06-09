@@ -9,7 +9,13 @@ mat-toolbar{
 }
 
 #navbtn{
+
   background-color: #101010;
   color: #ffffff;
+  margin-right: 1%;
+  width: 8%;
 }
 
+.spacer{
+  flex: 1 1 auto;
+}

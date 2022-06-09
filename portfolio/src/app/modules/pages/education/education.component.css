@@ -1,0 +1,23 @@
+.view{
+  padding-top: 5%;
+}
+
+.main{
+  background-color:#000000;
+}
+
+#texto{
+  background-color: #c91414;
+  color: #ffffff;
+  line-height: normal;
+}
+
+.row{
+  display:inline-flex;
+}
+
+#pic{
+  width: 40%;
+}
+
+
