@@ -1,0 +1,22 @@
+#pic{
+  width: 20%;
+  margin-right: 2%;
+}
+
+#title{
+  position: absolute;
+  display:inline-grid;
+}
+
+#text{
+  font-size: 270%;
+  line-height: normal;
+  font-weight: 900;
+}
+
+.view{
+  padding-top: 6%;
+  background-color: black;
+  width: 100%;
+  height: -webkit-fill-available;
+}

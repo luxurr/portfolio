@@ -1,9 +1,15 @@
 mat-toolbar{
   background-color: #0e0e0e;
   color: #ffffff;
+  display: flex;
+  position:fixed;
+  z-index: 1;
+  position: -webkit-fixed;
+  transform: translate3d(0, 0, 0);
 }
 
 #navbtn{
   background-color: #101010;
   color: #ffffff;
 }
+

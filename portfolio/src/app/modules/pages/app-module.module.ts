@@ -8,6 +8,7 @@ import { HomeComponent } from './home/home.component';
 import { SkillsComponent } from './skills/skills.component';
 
 
+import {MatCardModule} from '@angular/material/card';
 
 
 @NgModule({
@@ -21,7 +22,7 @@ import { SkillsComponent } from './skills/skills.component';
   ],
   imports: [
     CommonModule,
-
+    MatCardModule
 
   ]
 })
