@@ -7,17 +7,24 @@
 }
 
 #texto{
-  background-color: #c91414;
+  background-color: #000000;
   color: #ffffff;
   line-height: normal;
 }
 
 .row{
   display:inline-flex;
+  color: #ffffff;
+  background-color: #000000;
 }
 
 #pic{
-  width: 40%;
+  padding: 5%;
+  width: 20%;
 }
 
+#info, .prepa, .universidad{
+  background-color: #000000;
+  color: #ffffff;
+}
 

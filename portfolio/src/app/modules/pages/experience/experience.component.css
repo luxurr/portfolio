@@ -1,0 +1,35 @@
+.view{
+  padding-top: 5%;
+}
+
+.main{
+  background-color:#000000;
+}
+
+#texto{
+  background-color: #000000;
+  color: #ffffff;
+  line-height: normal;
+}
+
+.row{
+  display:inline-flex;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+#pic{
+  margin: 1%;
+  width: 25%;
+}
+
+#info, .job{
+  background-color: #000000;
+  color: #ffffff;
+  /* margin-left: 10%; */
+}
+
+#tercero{
+  width: 21%;
+}
+
