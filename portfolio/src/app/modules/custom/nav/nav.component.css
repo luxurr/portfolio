@@ -19,3 +19,8 @@ mat-toolbar{
 .spacer{
   flex: 1 1 auto;
 }
+
+a{
+  font-style: normal;
+  color: #ffffff;
+}

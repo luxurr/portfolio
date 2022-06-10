@@ -11,11 +11,11 @@ const routes: Routes = [
   {path:'',
   children:[
     {path:'', component:HomeComponent},
-    {path: 'education', component:EducationComponent},
-    {path: 'experience', component:ExperienceComponent},
-    {path: 'skills', component:SkillsComponent},
-    {path: 'admin', component:AdmonComponent},
-    {path: 'aboatme', component:AboutComponent}
+    // {path: 'education', component:EducationComponent},
+    // {path: 'experience', component:ExperienceComponent},
+    // {path: 'skills', component:SkillsComponent},
+    // {path: 'admin', component:AdmonComponent},
+    // {path: 'aboatme', component:AboutComponent}
   ]
 
 }
