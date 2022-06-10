@@ -23,8 +23,8 @@
 .cuadrante{
   width: 35rem;
   height: 18rem;
-  color: #000000;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #000000;
   font-size: 1.5rem;
   line-height: normal;
 }
@@ -43,4 +43,16 @@
 
 mat-progress-bar{
   height: 5%;
+}
+
+#icon{
+  width: 5%;
+  margin-right: 2%;
+}
+
+.media{
+  color: #ffffff;
+  background-color: #000000;
+  display: inline-flex;
+  font-size:70%;
 }
