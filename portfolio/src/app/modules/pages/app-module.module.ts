@@ -10,6 +10,7 @@ import { SkillsComponent } from './skills/skills.component';
 
 import {MatCardModule} from '@angular/material/card';
 import {MatProgressBarModule} from '@angular/material/progress-bar';
+import { LoginComponent } from './login/login.component';
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import {MatProgressBarModule} from '@angular/material/progress-bar';
     ExperienceComponent,
     HomeComponent,
     SkillsComponent,
+    LoginComponent,
   ],
   imports: [
     CommonModule,

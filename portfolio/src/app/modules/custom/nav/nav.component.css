@@ -23,4 +23,5 @@ mat-toolbar{
 a{
   font-style: normal;
   color: #ffffff;
+  text-decoration: none;
 }
