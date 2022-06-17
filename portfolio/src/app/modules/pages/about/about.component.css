@@ -56,3 +56,9 @@ mat-progress-bar{
   display: inline-flex;
   font-size:70%;
 }
+
+a{
+  font-style: normal;
+  color: #ffffff;
+  text-decoration: none;
+}

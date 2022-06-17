@@ -19,12 +19,10 @@ export class GuardianGuard implements CanActivate {
 
   private check( route: ActivatedRouteSnapshot, state:RouterStateSnapshot){
     this.token = this._user.checkAuth();
-    return this.token
-
     if(this.token){
       return true;
     } else {
-      this.router.navigate(['login']);
+      this.router.navigate(['']);
     }
     return this.token;
   }

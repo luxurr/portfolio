@@ -9,7 +9,7 @@ export class UserService {
 
 
   checkAuth(){
-    return true;
+    return false;
   }
 
 }
