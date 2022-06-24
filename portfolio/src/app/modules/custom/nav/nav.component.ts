@@ -12,8 +12,8 @@ export class NavComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  scroll(el: HTMLElement) {
-    el.scrollIntoView();
+  scrollEducation(){
+
   }
 
 }
