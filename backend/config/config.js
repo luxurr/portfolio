@@ -23,7 +23,7 @@ class App{
         this.routes.routes(this.app);
 
     }
-
+    
     config(){
         this.app.use(
             express.urlencoded({
