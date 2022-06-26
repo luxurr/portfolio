@@ -1,0 +1,27 @@
+mat-toolbar{
+  background-color: #0e0e0e;
+  color: #ffffff;
+  display: flex;
+  position:fixed;
+  z-index: 1;
+  position: -webkit-fixed;
+  transform: translate3d(0, 0, 0);
+}
+
+#navbtn{
+/* 101010 */
+  background-color: #101010;
+  color: #ffffff;
+  margin-right: 1%;
+  width: 8%;
+}
+
+.spacer{
+  flex: 1 1 auto;
+}
+
+a{
+  font-style: normal;
+  color: #ffffff;
+  text-decoration: none;
+}
